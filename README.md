@@ -57,3 +57,5 @@ git clone https://github.com/KyungHee1251/BankMarketingClassifierComparison.git
 ```
 jupyter notebook prompt_III.ipynb
 ```
+
+**Note** Problem 11 executiom will take long, approximately 4 min. 
